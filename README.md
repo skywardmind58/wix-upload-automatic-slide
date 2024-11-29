@@ -1,0 +1,1 @@
+# wix-upload-automatic-slide
